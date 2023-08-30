@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width initial-scale=1">
+        <title>index</title>
+        <!--sets the styles for the div, button, button hover and p-->
+        <style>
+            div {  
+                text-align: center;
+                margin-top: 20px;
+            }
+
+            button {
+                font-family:Arial, Helvetica, sans-serif;
+                font-size: small;
+                padding: 2px 4px;
+                border-radius: 4px;
+            }
+
+            button:hover {
+                background-color: black;
+                color: white;
+            }
+
+            p {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: small;
+                font-weight: 900;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div>
+            <script src="JS/main.js"></script> <!--this is the javascript source-->
+            <button onclick="myFunction()">Click me</button><!--button for the addition function-->
+            <p id=Math>_______</p>
+            <button onclick="SubtractionFunction()">Click me</button><!--button for the subtraction function-->
+            <p id=Subtraction>_______</p>
+            <button onclick="MultiplicationFunction()">Click me</button><!--button for the multiplication function-->
+            <p id=Multiply>_______</p>
+            <button onclick="DivisionFunction()">Click me</button><!--button for the division function-->
+            <p id=Divide>_______</p>
+            <button onclick="MultiMathFunction()">Click me</button><!--button for the multi-math function-->
+            <p id=MultiMath>_______</p>
+            <button onclick="RemainderFunction()">Click me</button><!--button to show the remainder function-->
+            <p id=Remainder>_______</p>
+            <button onclick="IncrementFunction()">Click me</button><!--button to show the increment function-->
+            <p id=Increment>_______</p>
+            <button onclick="DecrementFunction()">Click me</button><!--button to show the decrement function-->
+            <p id=Decrement>_______</p>
+            <button onclick="RandomFunction()">Click me</button><!--button to show the random number function-->
+            <p id=Random>_______</p>
+            <button onclick="PiFunction()">Click me</button><!--button to show the PI function from the math object-->
+            <p id=Pi>_______</p>
+        </div>
+    </body>
+
+</html>

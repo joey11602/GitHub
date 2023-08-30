@@ -1,0 +1,296 @@
+/************************************************************************
+                          basic styling
+************************************************************************/
+/*this removes the margin all arount the body elements*/
+body {
+    margin: 0%  
+}
+/*styles the <h1> elements*/
+h1 {
+    text-transform: uppercase; 
+    font-family: Arial, sans-serif;
+    color:teal;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    font-size: 50px; 
+    text-align: center; 
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+/*<h1> animation*/
+h1:hover {
+    transform: scale(1.05); 
+    transition: transform 1s; 
+}
+/*styles the <h4> elements*/
+h4 {
+    font-family: Arial, sans-serif;
+    font-size: 16px; 
+    text-align: center; 
+    color: white;
+    padding-top: 35px; 
+}
+
+/*<h4> animation*/
+h4:hover {
+    filter: grayscale(5%);
+    transform: scale(1.1); 
+    transition: transform 1s; 
+    
+}
+/*styles the <h3> elements*/
+h3 {
+    text-transform: uppercase; 
+    font-family: Arial, sans-serif;
+    font-size: 30px; 
+    text-align: center; 
+    color: teal;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    padding-top: 35px; 
+}
+
+/*<h3> animation*/
+h3:hover {
+    filter: grayscale(5%);
+    transform: scale(1.1); 
+    transition: transform 1s; 
+}
+/*styling for the <p> elements */
+p {
+    font-family: Perpetua, Rockwell Extra Bold;
+    text-align: justify; 
+    font-size: 16px;
+    padding-left: 10px; 
+    padding-right: 10px; 
+}
+/*<p> element animation*/
+p:hover {
+    transition: transform 1s; 
+	transform: scale(1.01);
+}
+/*for centering the text*/
+.center {
+    text-align: center; 
+}
+
+/*center hover animation*/
+.center:hover {
+    transition: transform 2s; 
+    transform: scale(1.1); 
+}
+/*makes <a> elements blue for hyperlink*/
+a {
+    color:deepskyblue;
+}
+
+/*puts the quote in italics*/
+q {
+    font-style: italic;
+}
+/*styles the image elements*/
+img {
+    filter: grayscale(75%); 
+    border-radius: 8px; 
+    max-width: 100%; 
+    height: 610px; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+/*image hover animation */
+img:hover {
+	filter: grayscale(5%);  
+    transition: transform 1s; 
+	transform: scale(1.1); 
+}
+/*changes the styling on the imges for screen sizes below 576px*/
+@media screen and (max-width: 576px) {
+    img {
+        height: 100px;
+        margin-top: 150px;
+    }
+}
+/*footer styling*/
+footer {
+    padding: 2%; 
+    background-color: white;
+}
+/*************************************************************************
+                      navbar styling
+*************************************************************************/
+.Navbar {
+    overflow: hidden; 
+    background-color: black; 
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+    z-index: 1;
+    -webkit-animation: moveNav 5s; 
+    animation: moveNav 5s; 
+}
+/*moveNav animation for navbar*/
+@keyframes moveNav {
+    from {left: -100vw;} 
+    to {left: 0vw;} 
+}
+/*styling for navbar <a> elements*/
+.Navbar a {
+    float: left; 
+    display: block; 
+    color: white; 
+    padding: 14px 16px; 
+    text-decoration: none; 
+    font-family: Avant Garde, Helvetica; 
+    font-size: 20px; 
+    text-align: center; 
+    position: relative; 
+    -webkit-animation: moveNavText 5.75s; 
+    animation: moveNavText 5.75s; 
+}
+/*moveNavText animation for navbar*/
+@keyframes moveNavText {
+    from {top: -100vw;} 
+    to {top: 0vw;} 
+}
+/*changes styling navbar <a> elements for screens 576px and smaller*/
+@media screen and (max-width: 576px) {
+    .Navbar a{
+        width: 25%; 
+        font-size: 12px;
+    }
+}
+/*navbar hover animation*/
+.Navbar a:hover {
+    background-color: #f4f4f4; 
+    color: black; 
+    font-weight: bold;
+}
+/*gives the home button a different background color*/
+.Navbar a.active { 
+    background-color: teal;
+}
+/***********************************************************************
+                    video styling
+***********************************************************************/
+/*formats the background video*/
+#Typing_Video {
+    position: fixed; 
+    right: 0; 
+    bottom: 0; 
+    min-width: 100%; 
+    z-index: -1; 
+}
+/*displays no video on screens 576px and smaller*/
+@media screen and (max-width: 576px) {
+    #Typing_Video {
+        display: none;
+    }
+}
+/*styles the text overlay on the video*/
+.Video_Text {
+    background: rgba(0, 0, 0, 0.05); 
+    width: 100%; 
+    padding: 120px 0px;
+    position: relative; 
+    -webkit-animation: moveVideoText 5.75s;
+    animation: moveVideoText 5.75s;
+}
+/*animation for text overlay on the video*/
+@keyframes moveVideoText {
+    from {top: -100vw;} 
+    to {top: 0vw;} 
+}
+/*************************************************************************
+                   styling for tables
+*************************************************************************/
+/*select all element*/
+* {
+    box-sizing: border-box; 
+} 
+/*column 1 styling*/
+.Column_1 {
+    float: left;
+    width: 50%; 
+    padding: 10px;
+    padding-top: 0; 
+    height: 720px; 
+    background-color: #8a8585;
+    overflow: auto;
+}
+/*this gives screens 576px and lower a scroll bar to view the text if it overflows*/
+@media screen and (max-width: 576px) {
+    .Column_1 {
+        overflow: auto;
+    }
+}
+/*column 2 styling*/
+.Column_2 {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    padding-top: 1.9%;
+    height: 720px;
+    background-color: #4d4d4d;
+    overflow: hidden;
+}
+/*this changes the height to the columns in the final row*/
+.Column_tall {
+    overflow: hidden;
+    height: 650px;
+}
+/* This fixes the footer so it is displayed*/
+.Row:after {
+	content: ""; 
+	display: table; 
+	clear: both; 
+}
+/******************************************************************
+            contact form styling
+******************************************************************/
+/*input box styling*/
+input[type=text] {
+    width: 100%; 
+    padding: 12px;
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical; 
+    font-family: Perpetua, Rockwell Extra Bold;
+}
+/*input box hover animation*/
+input[type=text]:hover {
+    box-shadow: 0 0 5px teal inset; 
+}
+/*styling for submit button*/
+input[type=submit] {
+    background-color: teal; 
+    color: white; 
+    font-weight: bold; 
+    padding: 12px 20px; 
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    font-family: Perpetua, Rockwell Extra Bold;
+}
+/*submit button hover animation*/
+input[type=submit]:hover { 
+    color: black; 
+    transform: scale(1.1); 
+    transition: transform 1.5s; 
+}
+/*styling for the form*/
+form {
+    border-radius: 5px; 
+    background-color: lightgrey; 
+    padding: 10px; 
+    font-family: "Trebuchet MS", Optima;
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width initial-scale=1">
+        <title>Contact Form</title>
+        <link rel="stylesheet" href="CSS/CSS_1.css">
+        <script src="JavaScript/JavaScript_2.js" defer></script>
+
+    </head>
+
+    <body>
+        <div>
+            <form name="myForm" onsubmit="return validateForm()">
+                <label for="firstName">First Name</label>
+                <input name="Fname" type="text" id="firstName" placeholder="John">
+
+                <label for="lastName">Last Name</label>
+                <input name="Lname" type="text" id="lastName" placeholder="Smith">
+
+                <label for="email">Email Address</label>
+                <input name="EM" type="email" id="email" placeholder="JohnSmith@acme.com">
+                <input type="submit" value="Submit">            
+            </form>
+        </div>
+
+    </body>
+
+</html>

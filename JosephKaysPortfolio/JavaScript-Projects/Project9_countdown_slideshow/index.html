@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width initial-scale=1">
+        <title>Project 9 Slide Show</title>
+        <link rel="stylesheet" type="text/css" href="CSS/main.css">
+    </head>
+
+    <body>
+        <!--countdown timer-->
+        <center><p>How many seconds would you like to set your alarm for?</p>
+        <input id="seconds" value="" />
+        <button onclick="countdown()">Click here</button>
+        <p id="timer"></p>
+        <p id="timer2"></p></center>
+        <!--container for the slideshow-->
+        <div class="slideshow-container">
+            <!--first image with slide number and name-->
+            <div class="mySlides fade">
+                <div class="numbertext">1 / 3</div>
+                <img src="images/img1.jpg" style="width:100%">
+                <div class="text">Image One</div>
+            </div>
+
+            <!--second image with slide number and name-->
+            <div class="mySlides fade">
+                <div class="numbertext">2 / 3</div>
+                <img src="images/img2.jpg" style="width:100%">
+                <div class="text">Image Two</div>
+            </div>
+            <!--third image with slide number and name-->
+            <div class="mySlides fade">
+                <div class="numbertext">3 / 3</div>
+                <img src="images/img3.jpg" style="width:100%">
+                <div class="text">Image Three</div>
+            </div>
+            <!--forward and backward buttons-->
+            <a class="prev" onclick="plusSlide(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlide(1)">&#10095;</a>
+        </div>
+        <br>
+
+        <!--index dots-->
+        <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+        </div>
+        <script src="JS/main.js"></script>
+    </body>
+
+</html>

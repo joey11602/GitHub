@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width initial-scale=1">
+        <title>Project 6</title>
+        <!--this is the link to the css file-->
+        <link rel="stylesheet" href="CSS/main.css">
+    </head>
+
+    <body>
+        <!--this is the source file for the javascript-->
+        <script src="JS/main.js"></script>
+        <div>
+            <!--ternary operation-->
+            <h3>Function using HTML and JavaScript that utilizes a ternary operation</h3>
+            <p>Voters must be 18 years of age to vote.</p><!--explains the condition to the user-->
+            <p>How old are you? <input id="Age" size="2" maxlength="2" type="number" min="0"><button
+                    onclick="V_Function()">Enter</button></p>
+            <!--ask the user thier age provides an input cell and calls the V_Function-->
+            <p id="vote"></p><!--V_Function returns the calculated statement here-->
+            <!--------Constructor function----------->
+            <h4>Constructor function that uses the “new” and “this” keywords and displays it in an HTML element</h4>
+            <button onclick="GetInfo()">Click Here.</button><!--sets up a button to call the GetInfo function-->
+            <p id="Info"></p><!--GetInfo returns the parsed information here-->
+            <!--nested function-->
+            <h4>Nested function</h4>
+            <button onclick="OuterFunction()">Click
+                me</button><!--sets up a button to call the OuterFunction function-->
+            <p id="Nested_Function"></p><!--OuterFunctio returns its function here-->
+        </div>
+    </body>
+
+</html>

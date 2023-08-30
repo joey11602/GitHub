@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>5K Run</title>
+        <style>
+            .homepage {
+                box-sizing: content-box;
+                width: 99%;
+                height: 800px;
+                border: 10px solid black;
+                background-image: url("./images/title_picture.jpg");
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .registration {
+                box-sizing: content-box;
+                width: 99%;
+                height: 800px;
+                border: 10px solid black;
+                background-image: url("./images/title_picture.jpg");
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            div.gallery {
+                border: 1px solid #ccc;
+            }
+
+            div.gallery:hover {
+                border: 1px solid #777;
+            }
+
+            div.gallery img {
+                width: 100%;
+                height: auto;
+            }
+
+            div.desc {
+                padding: 15px;
+                text-align: center;
+            }
+
+            * {
+                box-sizing: border-box;
+            }
+
+            .responsive {
+                padding: 0 6px;
+                float: left;
+                width: 32.99999%;
+            }
+
+            @media only screen and (max-width: 700px) {
+                .responsive {
+                    width: 49.99999%;
+                    margin: 6px 0;
+                }
+            }
+
+            @media only screen and (max-width: 500px) {
+                .responsive {
+                    width: 100%;
+                }
+            }
+
+            .clearfix:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <!-- NAV -->
+        <div>
+            <ul>
+                <a href="#home" id="link">
+                    <li>HOME</li>
+                </a>
+                <a href="#pictures">
+                    <li>PICTURES</li>
+                </a>
+                <a href="#video">
+                    <li>VIDEO</li>
+                </a>
+                <a href="#register">
+                    <li>REGISTRATION</li>
+                </a>
+            </ul>
+        </div>
+        <!-- END NAV -->
+
+        <!-- HOME -->
+        <section>
+            <div id="home">
+                <div class="homepage">
+
+                    <!-- Intro and Info -->
+                    <center>
+                        <h1 style="position: absolute; top: 50;">
+                            <h1 style="font-size:5vw; color: rgb(230, 88, 190); text-shadow: 3px 3px LightYellow;">
+                                <b>Exercise Tuscaloosa</b></h1><br>
+                            <h1 style="font-size:2vw; color: rgb(230, 88, 190); text-shadow: 1px 1px LightYellow;">We
+                                are sponsoring a 5K Run<br>
+                                On August 1, 2023<time datetime="2023-08-23"> we will host a 5K run in down town
+                                    Tuscaloosa.</time><br>
+                                Register at Manderson Landing. There is a $20 registration fee for this event.<br>
+                                All registered participants will be provided with a official T-shirt and number.<br>
+                                Registration will begin at 7:00 AM and the race will begin at 8:00 AM.
+                            </h1>
+                    </center>
+                </div>
+            </div>
+        </section>
+        <!-- END HOME -->
+
+        <!-- PICTURES -->
+        <section>
+            <div id="pictures">
+                <div class="responsive">
+                    <div class="gallery">
+                        <a target="_blank" href="./images/RTA.jpg">
+                            <img src="./images/RTA.jpg" alt="RTA logo" width="600" height="400">
+                        </a>
+                        <div class="desc">RTA</div>
+                    </div>
+                </div>
+
+                <div class="responsive">
+                    <div class="gallery">
+                        <a target="_blank" href="./images/5krun.jpg">
+                            <img src="./images/5krun.jpg" alt="foot race" width="600" height="400">
+                        </a>
+                        <div class="desc">5K RUN</div>
+                    </div>
+                </div>
+
+                <div class="responsive">
+                    <div class="gallery">
+                        <a target="_blank" href="./images/route.jpg">
+                            <img src="./images/route.jpg" alt="Route Map" width="600" height="400">
+                        </a>
+                        <div class="desc">ROUTE MAP</div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </section>
+        <!-- END PICTURES -->
+
+        <!-- VIDEO -->
+        <section>
+            <div id="video">
+                <center>
+                    <h1 style="font-size:5vw; color: black;">Training Video</h1>
+                    <video width="400" controls>
+                        <source src="./images/training_video.mp4" type="video/mp4">
+                    </video>
+                    <p>
+                        Video courtesy of Global Triathlon Network
+                    </p>
+                </center>
+            </div>
+        </section>
+        <!-- END VIDEO -->
+
+        <!-- REGISTRATION -->
+        <section>
+            <div id="register">
+                <div class="registration">
+                    <center>
+                        <h1>Registration</h1>
+                        <form action="" method="get">
+                            First Name: <input type="text" name="Fname"><br><br>
+                            Last Name: <input type="text" name="Lname"><br><br>
+                            Age: <input type="text" name="age"><br><br>
+                            Email: <input type="text" name="email"><br><br>
+                            Phone: <input type="text" name="phone"><br><br>
+                            <input type="submit" value="Enter">
+                        </form>
+                    </center>
+                </div>
+            </div>
+        </section>
+        <!-- END REGISTRATION -->
+
+        <!-- FOOTER -->
+        <div>
+            www.RTA.com &nbsp;&#124;&nbsp; &copy; 2023
+        </div>
+        <!-- END FOOTER -->
+
+    </body>
+
+</html>

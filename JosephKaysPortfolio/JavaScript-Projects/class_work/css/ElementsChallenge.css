@@ -1,0 +1,31 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3vw;
+    color: blue;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2vw;
+    color: blue;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1vw;
+    color: blue;
+}
+
+body {
+    opacity: 1;
+    transition: 5s opacity;
+}
+
+body.fade-out {
+    opacity: 0;
+    transition: none;
+}
+
+html{
+    background-color: black;
+}

@@ -1,0 +1,35 @@
+div {
+    width: 50%;
+    background-color:lightgray;
+    border-radius: 10px;
+    padding: 20px 20px 10px;
+}
+
+input[type=text], [type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid gray;
+  border-radius: 4px;
+  outline: none;
+  box-sizing: border-box;
+  display: inline;
+}
+
+input[type=text]:focus, [type=email]:focus {
+  background-color: linen;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: dodgerblue;
+  color: white;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+}
+
+input[type=submit]:hover {
+  background-color: gray;
+}

@@ -1,0 +1,33 @@
+/***********adding style to my HTML***************/
+div {
+    text-align: center;
+    margin-top: 20px;
+}
+input {
+    width: 32px;
+    padding: 0px 2px;
+    border: 2px black solid;
+}
+button {
+    margin-left: 2px;
+    border-radius: 6px;
+    border: 2px black solid;
+}
+h3 {
+    margin-top: 80px;
+}
+h3, h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:cornflowerblue;
+    font-size: 22px;
+    font-weight: 900;
+    text-decoration: underline;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:chartreuse;
+    font-size: 18px;
+    font-weight: 500;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}

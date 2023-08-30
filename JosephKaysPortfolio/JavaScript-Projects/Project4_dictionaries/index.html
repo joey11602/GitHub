@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width initial-scale=1">
+        <title>Dictionary Assignment</title>
+        <!--sets the styles for the div, button, button hover and p-->
+        <style>
+            div {
+                text-align: center;
+                margin-top: 20px;
+            }
+
+            button {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: small;
+                padding: 2px 4px;
+                border-radius: 4px;
+            }
+
+            button:hover {
+                background-color: black;
+                color: white;
+            }
+
+            p {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: small;
+                font-weight: 900;
+            }
+        </style>
+    </head>
+
+    <body>
+        <script src="JS/main.js"></script><!--this is the javascript source-->
+        <div>
+        <button onclick="dictionary1()">Click me</button><!--button to display the KVP-->
+        <p id="Dictionary1">_____</p>
+        <button onclick="dictionary2()">Click me</button><!--button to display the KVP-->
+        <p id="Dictionary2">_____</p>
+        <button onclick="dictionary3()">Click me</button><!--button to display the KVP-->
+        <p id="Dictionary3">_____</p>
+        </div>
+    </body>
+
+</html>

@@ -1,0 +1,104 @@
+/*global styling*/
+* {
+    box-sizing: border-box;
+}
+
+/*body styling*/
+body{
+    padding-top: 20px;
+}
+/*slideshow container styling*/
+.slideshow-container {
+    max-width: 600px;
+    position: relative;
+    margin: auto
+}
+
+/*no image by default*/
+.mySlides {
+    display: none;
+}
+
+/*backward and forward button styling*/
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+/*forward button on the right*/
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/*backward and forward button animation*/
+.prev:hover,
+.next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/*image name styling*/
+.text {
+    font-family: Verdana, sans-serif;
+    color: white;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+}
+
+/*slide number text styling*/
+.numbertext {
+    color: white;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+/*index dots styling*/
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: rgb(223, 216, 216);
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+/*index dot animation*/
+.active,
+.dot:hover {
+    background-color: gray;
+}
+
+/*fade animation*/
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}

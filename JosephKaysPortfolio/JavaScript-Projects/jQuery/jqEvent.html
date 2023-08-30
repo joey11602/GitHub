@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    </head>
+        <p>Paragraph</p>
+        <h1>Heading 1</h1>
+    <script>
+        //this is the convenience method for a click event
+        $("p").click(function() {//when the <p> is clicked the alert window displays the text
+            alert("You clicked a paragraph!");
+        });
+        //this is the .on() method for a click event
+        $("h1").on("click", function() {//when the <h1> is clicked the alert window displays the text
+            alert("click!");
+        });
+    </script>
+</html>

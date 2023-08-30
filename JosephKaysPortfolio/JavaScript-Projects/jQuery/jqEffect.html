@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    </head>
+    <p>Paragraph</p>
+    <h1 hidden>Heading 1</h1><!--this elements style is set to hidden-->
+    <h2>Heading 2</h2>
+    <script>
+        $("p").on("click", function() {//on click of the <p> the function is called
+            $("p").hide();//this function hides the <p>
+            $("h1").show();//this function shows the hidden <h1>
+        });
+    </script>
+
+</html>

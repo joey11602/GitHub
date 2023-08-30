@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width initial-scale=1">
+        <title>Project 7</title>
+        <link rel="stylesheet" href="CSS/main.css"><!--references my CSS-->
+    </head>
+
+    <body>
+        <script src="JS/main.js"></script><!--references my JS-->
+        <div>
+            <h3>This is my global variable</h3><!--global variable section-->
+            <p id="global"><button onclick="divide_function()">Click Me</button></p>
+            <h4>This is my local variable</h4><!--local variable section-->
+            <p id="local"><button onclick="multiply_function()">Click Me</button></p>
+            <h4>This is my function with an error!</h4><!--function with error sectio-->
+            <p id="error"><button onclick="error_function()">Click Me</button></p>
+            <h4>This is my function with an if statement</h4>
+            <!--function with an if statement, I had one already with a if/else so I used it-->
+            <p>What is your favorite color?:</p>
+            <input type="text" id="color" onkeydown="return /[a-zA-Z]/i.test(event.key)"><!--this took a minute to find but I only wanted to have alphanumeric entries-->
+            <button onclick="CompareFunction()">Enter</button><!--how can I make this not accept a blank entry???-->
+            <p id="MyFavColor"></p>
+            <h4>This is the time function I typed out</h4>
+            <!--I don't really understand the logic in this but I typed it out, that was the requirement-->
+            <p id="Time_of_day"></p>
+            <button onclick="Time_function()">Click here to get the time.</button>
+        </div>
+    </body>
+
+</html>

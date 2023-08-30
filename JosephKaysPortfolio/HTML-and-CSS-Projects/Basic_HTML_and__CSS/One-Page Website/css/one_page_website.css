@@ -1,0 +1,286 @@
+/*----------------------------------------------------------
+              FONT STYLES
+----------------------------------------------------------*/
+
+body h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 5vw;
+    color: rgb(230, 88, 190);
+    text-shadow: 3px 3px LightYellow;
+}
+
+body h2 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 2vw;
+    color: rgb(230, 88, 190);
+    text-shadow: 1px 1px LightYellow;
+}
+
+body h3 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 3vw;
+    color: rgb(230, 88, 190);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+body h4 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 5vw;
+    color: rgb(8, 16, 239);
+    text-shadow: 3px 3px rgb(0, 0, 0);
+}
+
+body p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1vw;
+    color: rgb(8, 16, 239);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+.caption-container p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 3vw;
+    color: red;
+}
+
+.desc {
+    color: #f00;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1vw;
+    font-weight: bold;
+}
+/*----------------------------------------------------------
+                  DIVISIONS
+-----------------------------------------------------------*/
+/*clears out margin and padding so there is no border around the webpage*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* removes the underline that looks like a dash between the buttons */
+a {
+    text-decoration: none;
+}
+/*styles the NAV buttons*/
+.menu-container {
+    max-height: 10px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    z-index: 100;
+}
+ /* fills the home screen with image */
+.homepage {
+    width: 100%;
+    height: 100vh;
+    background-image: url("../images/title_picture.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+/* back drop for video */
+.video {
+    box-sizing: border-box;
+    background: rgb(0, 0, 0);
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+ /* fills the registration screen with image */
+.registration {
+    box-sizing: content-box;
+    width: 100%;
+    height: 100vh;
+    background-image: url("../images/title_picture.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+/* sets parameters for the form and its text */
+.registration form {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1vw;
+    color: rgb(230, 88, 190);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    padding: 12px 12px;
+    width: 20%;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 2% auto;
+    border-radius: 4px;
+    background: rgb(199, 200, 203);
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.3);
+}
+/* styles input width and radius */
+.registration input {
+    border-radius: 4px;
+    width: 65%;
+    border: 1px solid rgb(0, 0, 0);
+}
+/*------------------------------------------------------------
+           MENU ANIMATION
+------------------------------------------------------------*/
+ /* parameters for NAV menu buttons */
+.menu li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000;
+    font-size: 1vw;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 1);
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    padding: 12px 40px;
+    border: 1px solid rgb(0, 0, 0);
+    box-shadow: 2px 2px 10px 0 rgba(0, 0, 0, 0.5);
+    border-radius: 4px;
+    cursor: pointer;
+    transition-property: background-color;
+    transition-duration: .4s;
+    transition-delay: 0s;
+    transition-timing-function: ease-in-out;
+}
+/* parameters for NAV menu buttons when hovering */
+.menu li:hover {
+    color: #f2f7f2;
+    background-color: rgb(0, 0, 0);
+}
+/*------------------------------------------------------------
+           SUBMIT BUTTON ANIMATION
+------------------------------------------------------------*/
+/* parameters for SUBMIT button */
+.submit input[type="submit"] {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1vw;
+    color: rgb(230, 88, 190);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    cursor: pointer;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 7px 0px;
+    width: 25%;
+    transition: border-color 0.3s color 0.3s background-color 0.3s;
+    border-radius: 4px;
+    background-color: #797a7b;
+    box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.3);
+}
+/* parameters for SUBMIT button when hovering*/
+.submit input[type="submit"]:hover {
+    color: #000;
+    background-color: #8D8E8F;
+    box-shadow: inset 1px 2px 15px 0 rgba(0, 0, 0, 0.5);
+}
+
+/*--------------------------------------------------------------------
+               Lightbox CSS
+--------------------------------------------------------------------*/
+/* The Modal (background) */
+.modal {
+    display: none;
+    position: fixed;
+    padding-top: 40px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: black;
+    z-index: 100;
+}
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: black;
+    margin: auto;
+    padding: 0;
+}
+/* The Close Button */
+.close {
+    color: white;
+    position: absolute;
+    top: 3px;
+    right: 25px;
+    font-size: 35px;
+    font-weight: bold;
+}
+/*close animation*/
+.close:hover,
+.close:focus {
+    color: #999;
+    text-decoration: none;
+    cursor: pointer;
+}
+/* Hide the slides by default */
+.mySlides {
+    display: none;
+}
+/* Next & previous buttons */
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: dodgerblue;
+    font-weight: bold;
+    font-size: 20px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+/* Number text (1/3 etc) */
+.numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+/* Caption text */
+.caption-container {
+    text-align: center;
+    background-color: black;
+}
+/*makes image thumbnails transparent*/
+img.demo {
+    opacity: 0.6;
+}
+/*on hover over thumbnail makes opacity full*/
+.active,
+.demo:hover {
+    opacity: 1;
+}
+/*gives shadow effect on image on hover*/
+img.hover-shadow {
+    transition: 0.3s;
+}
+/*gives shadow effect on image on hover*/
+.hover-shadow:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/*container for images*/
+.container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+/*background color for images*/
+.background {
+    background-color: black;
+}
+/*padding to isolate pictures from the other areas*/
+.padding {
+    padding: 250px 0;
+}
