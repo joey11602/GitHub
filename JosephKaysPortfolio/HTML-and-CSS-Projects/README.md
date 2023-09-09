@@ -1,5 +1,5 @@
 # HTML-and-CSS-Projects
-I created this repository to use while I go through "The Software Develorer Boot Camp" @ The Tech Academy. 
+I created this folder to use while I go through The Software Develorer Boot Camp HTML & CSS Course @ The Tech Academy. 
 There are a lot of files on here that pertain to my class work. They are just simple assignments to help me learn how to code. You are welcome to look through them. But by themslves, they don't make a lot of sense. I do however, have some notabile assignments that aren't completely functional web sites, but they do have form and some function. They show my progression as a software programmer. Please take a look at them.
 
 1. The Hunting Lodge Project - This web page is an example of a hunting lodge web site. It is styled in CSS and contains a navbar, image containers, and a form.
