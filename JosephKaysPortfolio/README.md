@@ -1,6 +1,6 @@
 # Joseph Kay's Computer Code Portfolio
 
-#### Welcome to my computer code portfolio! This repository showcases a collection of my projects that highlight my skills, creativity, and passion for coding. 
+#### Welcome to my computer code portfolio! This folder showcases a collection of my projects that highlight my skills, creativity, and passion for coding. 
 Whether it's web development or software engineering, I've poured my dedication into crafting these projects to solve real-world problems and contribute positively to the tech community.
 
 ## Projects
