@@ -13,6 +13,10 @@ Whether it's web development or software engineering, I've poured my dedication 
 
 #### This was the next course that I completed at The Tech Academy. It is a collection of the assignments that I completed using JavaScript, HTML and CSS with JS as the focus.<br>Scroll down to see the README file.
 
+### Project 3: Python-Projects
+
+#### This is my current cours of study at the Tech Academy. I will be learning more about the programming language Python. There is a README but this is all brand new and there isn't much for now.
+
 ## About Me
 
 I'm a passionate and dedicated developer with a strong interest in JavaScript. I believe in the power of technology to shape the world and continuously strive to expand my skills and knowledge in this ever-evolving field. Feel free to explore my projects, and don't hesitate to reach out to me at joey35475@outlook.com if you're interested in collaborating or have any questions.
