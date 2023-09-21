@@ -101,6 +101,7 @@ def again(nice, mean, name):
         if choice == "n":
             print("\nOh, so sad, sorry to see you go!")
             stop = False
+            # This will quit pygame
             pygame.quit()
             quit()
         else:
