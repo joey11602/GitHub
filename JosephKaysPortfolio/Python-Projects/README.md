@@ -9,4 +9,4 @@
 #### some sound effects.
 
 1. My first functional program
-   -[Nice_or_Mean_tutorial.py](JosephKaysPortfolio/Python-Projects/Nice_or_Mean_tutorial.py)
+   -[Nice_or_Mean_tutorial.py](Nice_or_Mean_tutorial.py)
