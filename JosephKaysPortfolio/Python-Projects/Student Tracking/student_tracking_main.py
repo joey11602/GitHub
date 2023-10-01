@@ -35,7 +35,7 @@ class ParentWindow(Frame):
         #this protocol method is a tkinter built-in method to catch if 
         #the user clicks the upper corner, "X" on Windows OS.
         self.master.protocol("WM_DELETE_WINDOW", lambda: student_tracking_func.ask_quit(self))
-        # load in the GUI widgets 
+        #load the gui widgets 
         student_tracking_gui.load_gui(self)
 
 #standard dunder "main" code block

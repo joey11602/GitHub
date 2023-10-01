@@ -49,7 +49,7 @@ def load_gui(self):
     self.txt_curCourse = tk.Entry(self.master, text = '')
     self.txt_curCourse.grid(row = 4, column = 1, padx = (0, 0), pady = (0, 0))
 
-    #Define the listbox with a scrollbar and grid them
+    #define listbox and scrollbar
     self.scrollbar1 = Scrollbar(self.master, orient = VERTICAL)
     self.lstList1 = Listbox(self.master, exportselection = 0, yscrollcommand = self.scrollbar1.set)
     self.lstList1.bind('<<ListboxSelect>>', lambda event: student_tracking_func.select(self, event))
@@ -57,7 +57,7 @@ def load_gui(self):
     self.scrollbar1.grid(row = 0, column = 3, rowspan = 5, padx = (0, 0), pady = (0, 0))
     self.lstList1.grid(row = 0, column = 2, rowspan = 5, padx = (0, 0), pady = (10, 0))
     
-    #define the buttons
+    #define buttons
     self.btn_submit = tk.Button(self.master, width = 20, height = 1, text = 'SUBMIT', command = lambda: student_tracking_func.submit(self))
     self.btn_submit.grid(row = 0, column = 5, rowspan = 1, padx = (0, 0), pady = (30, 0))
     self.btn_deleteSelected = tk.Button(self.master, width = 20, height = 1, text = 'DELETE SELECTED', command = lambda: student_tracking_func.deleteSelected(self))

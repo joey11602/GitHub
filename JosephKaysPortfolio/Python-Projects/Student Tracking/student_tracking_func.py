@@ -32,6 +32,7 @@ def center_window(self, w, h): #pass in the tkinter frame (master) reference and
     centerGeo = self.master.geometry('{}x{}+{}+{}'.format(w, h, x, y))
     return centerGeo
 
+#define ask_quit()
 #catch if the user's clicks on the windows upper-right 'X' to ensure they want to close
 def ask_quit(self):
     if messagebox.askokcancel("Exit program", "Okay to exit application?"):
@@ -58,7 +59,7 @@ def create_db(self):
     first_run(self)
 
 #define first_run()
-#first run check, if empty, add generic info
+#first run check, if empty, add generic info to the data base
 def first_run(self):
     conn = sqlite3.connect('db_StudentTracking.db')
     with conn:
@@ -111,7 +112,6 @@ def submit(self):
     var_phone = self.txt_phone.get()
     var_email = self.txt_email.get()
     var_curCourse = self.txt_curCourse.get() 
-    #normalize the data to keep it consistent in the database
     #this will remove any blank spaces before and after the user's entry
     var_fname = var_fname.strip() 
     var_lname = var_lname.strip()
@@ -135,7 +135,7 @@ def submit(self):
         with conn:
             cursor = conn.cursor()
             #check the database for existance of the fullname, if so we will alert user and disregard request
-            cursor.execute("SELECT COUNT(col_fullname) FROM tbl_Tracking WHERE col_fullname = '{}'".format(var_fullname))#,(var_fullname))
+            cursor.execute("SELECT COUNT(col_fullname) FROM tbl_Tracking WHERE col_fullname = '{}'".format(var_fullname))
             count = cursor.fetchone()[0]
             chkName = count
             if chkName == 0: #if this is 0 then there is no existance of the fullname and we can add new data
@@ -155,7 +155,7 @@ def submit(self):
         messagebox.showerror("Missing Text Error","Please ensure that there is data in all four fields.")
 
 #define deleteSelected()
-#this will delete the data associated with the full name that has been selected from the gui and the data base
+#this will delete the data from the gui and the data base that is associated with the full name selected in the listbox 
 def deleteSelected(self):
     var_select = self.lstList1.get(self.lstList1.curselection()) #listbox's selected value
     conn = sqlite3.connect('db_StudentTracking.db')
@@ -182,8 +182,8 @@ def deleteSelected(self):
     conn.close()
     
 #define clear()
+#this function clears the text in the textboxes
 def clear(self):
-    #clear the text in these textboxes
     self.txt_fname.delete(0,END)
     self.txt_lname.delete(0,END)
     self.txt_phone.delete(0,END)
