@@ -11,3 +11,17 @@
 4. This last program was a banking app that runs in a Django server. You can view the files but without setting
    of Django on your system it will not function. All the files are in the directory below.
    -[Checkbook_Project](JosephKaysPortfolio/Python-Projects/Checkbook_Project)
+
+1. Portfolio Website Submission 📁 - This is a web site that is published on the web. It is fully functional and tells you about me and has links to my github.
+   - [index.html](Portfolio_Website_Submission/index.html)
+   - [portfolio.css](Portfolio_Website_Submission/css/portfolio.css)
+   - [portfolio.js](Portfolio_Website_Submission/js/portfolio.js)
+2. calculator 📁 - This is a calculator that runs in your browser. It uses JavaScript for all the functions.
+   - [calculator.html](calculator/calculator.html)
+   - [Calculator_CSS.css](calculator/CSS/Calculator_CSS.css)
+   - [Calculator_Javascript.js](calculator/Javascript/Calculator_Javascript.js)
+3. TicTacToe 📁 - This is a tic tac toe game that runs in your browser. It uses JavaScript for all the functions. It has some unique images for the X's and O's.
+   - [TicTacToe.html](TicTacToe/TicTacToe.html)
+   - [game.css](TicTacToe/css/game.css)
+   - [tictactoe.js](TicTacToe/js/tictactoe.js)
+
