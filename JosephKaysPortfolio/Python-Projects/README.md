@@ -3,7 +3,7 @@
 
 
 1. My first functional program
-   -[Nice_or_Mean_tutorial.py](JosephKaysPortfolio/Python-Projects/Nice_or_Mean_tutorial.py)
+   -[Nice_or_Mean_tutorial.py](Python-Projects/Nice_or_Mean_tutorial.py)
 2. This program transfers file from one directory to another if they have been created in the last 24 hours
    -[file_transfer.py](JosephKaysPortfolio/Python-Projects/file_transfer.py)
 3. A simple web page generator
