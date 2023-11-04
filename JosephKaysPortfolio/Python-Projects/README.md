@@ -3,14 +3,14 @@
 
 
 1. My first functional program.
--[Nice_or_Mean_tutorial.py](Nice_or_Mean_tutorial.py)
+   - [Nice_or_Mean_tutorial.py](Nice_or_Mean_tutorial.py)
 2.   This program transfers file from one directory to another if they have been created in the last 24 hours
-   -[file_transfer.py](JosephKaysPortfolio/Python-Projects/file_transfer.py)
+   - [file_transfer.py](JosephKaysPortfolio/Python-Projects/file_transfer.py)
 3. A simple web page generator
-   -[web_page_generator.py](JosephKaysPortfolio/Python-Projects/web_page_generator.py)
+   - [web_page_generator.py](JosephKaysPortfolio/Python-Projects/web_page_generator.py)
 4. This last program was a banking app that runs in a Django server. You can view the files but without setting
    of Django on your system it will not function. All the files are in the directory below.
-   -[Checkbook_Project](JosephKaysPortfolio/Python-Projects/Checkbook_Project)
+   - [Checkbook_Project](JosephKaysPortfolio/Python-Projects/Checkbook_Project)
 
 1. Portfolio Website Submission 📁 - This is a web site that is published on the web. It is fully functional and tells you about me and has links to my github.
    - [index.html](Portfolio_Website_Submission/index.html)
