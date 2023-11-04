@@ -5,7 +5,7 @@ Whether it's web development or software engineering, I've poured my dedication 
 
 ## Projects
 
-### Project 1: Basic_HTML_and_CSS
+### Project 1: [Basic_HTML_and_CSS](HTML-and-CSS-Projects)
 
 #### This collection represents my initial coursework at The Tech Academy. It includes assignments completed using HTML, CSS, and Bootstrap, along with a simple JavaScript introduction project.<br>Explore the enclosed README for more details.
 
