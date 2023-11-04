@@ -9,11 +9,11 @@ Whether it's web development or software engineering, I've poured my dedication 
 
 #### This collection represents my initial coursework at The Tech Academy. It includes assignments completed using HTML, CSS, and Bootstrap, along with a simple JavaScript introduction project.<br>Explore the enclosed README for more details.
 
-### Project 2: JavaScript-Projects
+### Project 2: [JavaScript-Projects](JavaScript-Projects)
 
 #### This compilation reflects my progress through the subsequent course at The Tech Academy. It features assignments developed primarily using JavaScript, HTML, and CSS, with a focus on honing my JavaScript skills.<br>Check out the enclosed README for more insights.
 
-### Project 3: Python-Projects
+### Project 3: [Python-Projects](Python-Projects)
 
 #### "I just completed this course at the Tech Academy, which posed some significant challenges along the way. Although it was demanding, the experience proved to be highly rewarding. During the course, I had the opportunity to integrate various programming languages, allowing me to develop basic web applications. The course provided a foundational understanding of Python and the Django framework, and at the end, I was introduced to Docker. Docker offered a glimpse into the broader scope of software development.<br>Please refer to the enclosed README for a brief overview.
 
