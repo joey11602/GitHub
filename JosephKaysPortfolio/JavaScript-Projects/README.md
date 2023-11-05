@@ -15,3 +15,10 @@ There are a lot of files on here that pertain to my class work. They are just si
    - [TicTacToe.html](TicTacToe/TicTacToe.html)
    - [game.css](TicTacToe/css/game.css)
    - [tictactoe.js](TicTacToe/js/tictactoe.js)
+
+Take a look at my portfolio web page @ [josephkay.org](http://josephkay.org/).
+## Contact
+- Email: joey35475@outlook.com
+- LinkedIn: [joey Kay](https://www.linkedin.com/in/joey-kay-41322927b/)
+
+Thank you for visiting my portfolio. Your feedback and suggestions are highly appreciated!
