@@ -23,3 +23,9 @@
    of Django on your system, it will not function. All the files are in this directory: 📁[Checkbook_Project](Checkbook_Project)
 #### Feel free to explore the projects. If you have any questions or feedback, please reach out to me. Thank you for visiting my repository.
 Take a look at my portfolio web page: [josephkay.org](http://josephkay.org/)
+## Contact
+
+- Email: joey35475@outlook.com
+- LinkedIn: [joey Kay](https://www.linkedin.com/in/joey-kay-41322927b/)
+
+Thank you for visiting my portfolio. Your feedback and suggestions are highly appreciated!
