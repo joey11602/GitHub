@@ -22,4 +22,3 @@
 4. This last program was a banking app that runs in a Django server. You can view the files, but without setting
    of Django on your system, it will not function. All the files are in this directory: 📁[Checkbook_Project](Checkbook_Project)
 #### Feel free to explore the projects. If you have any questions or feedback, please reach out to me. Thank you for visiting my repository.<br><br>Take a look at my portfolio web page @ [josephkay.org](http://josephkay.org/).
-
