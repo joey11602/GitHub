@@ -16,8 +16,7 @@
 - Working with sqlite3 in Python.
 #### Moreover, my exposure to Django truly consolidated my understanding, offering a comprehensive view of integrating various concepts. It was a significant step that exposed me to the vast possibilities of pre-built environments. Lastly, my brief introduction to Docker was a game-changing experience, opening up new possibilities in my development journey.<br>
 #### This repository includes various files that illustrate my learning progress, ranging from simple and rudimentary programming to more complex projects. Some filenames may be generic, reflecting the nature of the learning process. Please feel free to explore the contents of this repository. Notable programs are listed below:
-1. My first functional program.
-   - [Nice_or_Mean_tutorial.py](Nice_or_Mean_tutorial.py)
+1. My first functional program. [Nice_or_Mean_tutorial.py](Nice_or_Mean_tutorial.py)
 2. This program transfers file from one directory to another if they have been created in the last 24 hours
    - [file_transfer.py](file_transfer.py)
 3. A simple web page generator
