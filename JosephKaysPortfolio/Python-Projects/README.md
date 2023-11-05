@@ -1,7 +1,21 @@
 # Python-Projects
-#### I created this folder to use while I go through The Software Develorer Boot Camp Python Course @ The Tech Academy. I have learned a lot so far like, all the different type of variables and how to use them. I have learned about lists, dictionaries, tupples, and arrays. I have learned about functions, methods, conditional statements, and loops. I have learned how to import modules through the CMD. I have learned about proper syntax and indention, program flow, passing variables from code blocks back and forth. I have learned how to set up and work in virtual environments. Learned about dunder methods and error handling. I learned how to interact with the OS with Python. I have learned how to work with databases through python code. I have learned all about object-oriented programming with Python. I learned about inheritance and polymorphism creating classes. I have learned how to create GUIs in Tkinter. I have learned about encapsulation and how to make code reusable and seperated into modules. I have learned how to work with sqlite3 in Python. I learned a great deal working with Django which really started putting everything together for me. I had heard about working in environments where most of the code is written already but Django was next level to me! It opened my eyes to a whole new world of possibilities! And finally I was introduced to Docker, though it was just an introduction, it certainly is a game changer!<br><br>There are a lot of files on here. Most of which are simple and ruamentary programming to teach me concepts. As you will see, some didn't even get original names. Feel free to look through them. I do have some notable programs in her that are listed below.
-
-
+#### I created this repository while progressing through The Software Developer Boot Camp Python Course at The Tech Academy. During the course, I gained comprehensive knowledge, including various concepts such as:<br>
+- Understanding different variable types and their usage.
+- Implementing lists, dictionaries, tuples, and arrays effectively.
+- Exploring functions, methods, conditional statements, and loops.
+- Learning the process of importing modules.
+- Using proper syntax, indentation, and program flow.
+- Utilizing techniques for passing variables between code blocks.
+- Working proficiently in virtual environments.
+- Using dunder methods and error handling.
+- Interacting with the operating system through Python.
+- Handling databases and object-oriented programming with Python.
+- Utilizing inheritance and polymorphism by creating classes.
+- Developing Graphical User Interfaces (GUIs) using Tkinter.
+- Understanding encapsulation and ensuring reusable, modular code.
+- Working with sqlite3 in Python.
+#### Moreover, my exposure to Django truly consolidated my understanding, offering a comprehensive view of integrating various concepts. It was a significant step that exposed me to the vast possibilities of pre-built environments. Lastly, my brief introduction to Docker was a game-changing experience, opening up new possibilities in my development journey.<br>
+#### This repository includes various files that illustrate my learning progress, ranging from simple and rudimentary programming to more complex projects. Some filenames may be generic, reflecting the nature of the learning process. Please feel free to explore the contents of this repository. Notable programs are listed below:
 1. My first functional program.
    - [Nice_or_Mean_tutorial.py](Nice_or_Mean_tutorial.py)
 2. This program transfers file from one directory to another if they have been created in the last 24 hours
@@ -11,3 +25,5 @@
 4. This last program was a banking app that runs in a Django server. You can view the files but without setting
    of Django on your system it will not function. All the files are in the directory below.
    - 📁[Checkbook_Project](Checkbook_Project)
+#### Feel free to explore the projects. If you have any questions or feedback, please reach out to me. Thank you for visiting my repository.
+
