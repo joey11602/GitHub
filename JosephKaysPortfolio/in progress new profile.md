@@ -78,6 +78,8 @@ Here are some of the projects I've worked on:
 
 ## Contact Me
 - LinkedIn: [Joey Kay](https://www.linkedin.com/in/joey-kay-41322927b/)
-- Email: [Your Email Address](mailto:your.email@example.com)
+- FaceBook: [Joey Kay](https://www.facebook.com/captainhoey)
+- Twitter/X: [captainhoey](https://twitter.com/captainhoey)
+- Email: [joey35475@outlook.com](mailto:joey35475@outlook.com)
 
 Feel free to reach out if you'd like to collaborate on exciting projects or discuss anything related to software development.
