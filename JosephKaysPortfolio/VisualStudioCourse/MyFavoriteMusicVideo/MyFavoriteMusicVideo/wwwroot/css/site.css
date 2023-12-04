@@ -37,6 +37,7 @@ html {
 .border-top {
   border-top: 1px solid #e5e5e5;
 }
+
 .border-bottom {
   border-bottom: 1px solid #e5e5e5;
 }
@@ -61,6 +62,7 @@ body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -68,6 +70,7 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
 /*Animation for my music video
 ------------------------------------------------------*/
 #myContainer {
@@ -75,8 +78,7 @@ body {
     height: 439px;
     position: relative;
     background: black;
-    margin: auto;
-    
+    margin: auto; /* sets up the container styling that encapsulates the animation*/  
 }
 
 #myAnimation {
@@ -84,19 +86,22 @@ body {
     height: 50px;
     position: absolute;
     background-color: gray;
-    transition: transform 2s ease-in-out;
+    transition: transform 2s ease-in-out; /*sets up the styling for the animated square*/
 }
+
 #video {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -49%);
+    transform: translate(-50%, -49%); /*centers the video in bote axis*/
 }
+
 h1 {
     font-family: 'Courier New', monospace;
-    font-weight: bold;
+    font-weight: bold; /*sets the style for the h1 font*/
 }
+
 h2 {
     font-family: 'Courier New', monospace;
-    font-weight: bold;
+    font-weight: bold; /*sets the style for the h2 font*/
 }
