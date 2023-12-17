@@ -1,7 +1,7 @@
 # Joseph Kay's Computer Code Portfolio
 
-#### Welcome to my computer code portfolio! This folder showcases a collection of my projects that highlight my skills, creativity, and passion for coding. 
-Whether it's web development or software engineering, I've poured my dedication into crafting these projects to solve real-world problems and contribute positively to the tech community.
+#### Welcome to my computer code portfolio! This folder displays a collection of my projects that highlight my skills, creativity, and passion for coding. 
+Whether it is web development or software engineering, I have poured my dedication into crafting these projects to solve real-world problems and contribute positively to the tech community.
 
 ## Projects
 
@@ -19,7 +19,7 @@ Whether it's web development or software engineering, I've poured my dedication 
 
 ## About Me
 
-I'm a passionate and dedicated developer with a strong interest in JavaScript and Python. I believe in the power of technology to shape the world and continuously strive to expand my skills and knowledge in this ever-evolving field. Feel free to explore my projects, and don't hesitate to reach out to me at joey35475@outlook.com if you're interested in collaborating or have any questions.<br><br>Take a look at my portfolio web page @ [josephkay.org](http://josephkay.org/). 
+I am an enthusiastic and resolute developer with a strong interest in JavaScript and Python. I believe in the power of technology to shape the world and continuously strive to expand my skills and knowledge in this ever-evolving field. Feel free to explore my projects, and do not hesitate to reach out to me at joey35475@outlook.com if you are interested in collaborating or have any questions.<br><br>Take a look at my portfolio web page @ [josephkay.org](http://josephkay.org/). 
 
 ## Contact
 
