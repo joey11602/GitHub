@@ -1,9 +1,9 @@
 # JavaScript-Projects
 
-I created this folder to use while I go through The Software Develorer Boot Camp JavaScript Course @ The Tech Academy. 
-There are a lot of files on here that pertain to my class work. They are just simple assignments to help me learn how to code. You are welcome to look through them. But by themslves, they don't make a lot of sense. I do however, have some notabile assignments. One in particular is a functional website that is in the Portfolio Website Submission folder. There are some others that are functional, a calculator and a tic tac toe game. They show my progression as a software programmer. Please take a look at them.
+I created this folder to use while I go through The Software Developer Boot Camp JavaScript Course @ The Tech Academy. 
+There are a lot of files on here that pertain to my class work. They are simple assignments to help me learn how to code. You are welcome to look through them. But by themselves, they do not make a lot of sense. I do, however, have some notable assignments. One in particular is a functional website that is in the Portfolio Website Submission folder. There are some others that are functional, a calculator and a tic tac toe game. They show my progression as a software programmer. Please take a look at them.
 
-1. Portfolio Website Submission 📁 - This is a web site that is published on the web. It is fully functional and tells you about me and has links to my github.
+1. Portfolio Website Submission 📁 - This is a web site that I published on the web. It is fully functional and tells you about me and has links to my GitHub.
    - [index.html](Portfolio_Website_Submission/index.html)
    - [portfolio.css](Portfolio_Website_Submission/css/portfolio.css)
    - [portfolio.js](Portfolio_Website_Submission/js/portfolio.js)

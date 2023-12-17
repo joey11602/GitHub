@@ -19,8 +19,8 @@
 1. My first functional program using Python is very simple but it is a milestone for me. Here is it: [Nice_or_Mean_tutorial.py](Nice_or_Mean_tutorial.py)
 2. This program transfers file from a directory to another of your choosing if they have been created in the last 24 hours: [file_transfer.py](file_transfer.py)
 3. A simple web page generator: [web_page_generator.py](web_page_generator.py)
-4. This last program was a banking app that runs in a Django server. You can view the files, but without setting
-   of Django on your system, it will not function. All the files are in this directory: 📁[Checkbook_Project](Checkbook_Project)
+4. This last program was a banking app that runs on a Django server. You can view the files, but without setting
+   up Django on your system, it will not function. All the files are in this directory: 📁[Checkbook_Project](Checkbook_Project)
 #### Feel free to explore the projects. If you have any questions or feedback, please reach out to me. Thank you for visiting my repository.
 Take a look at my portfolio web page: [josephkay.org](http://josephkay.org/)
 ## Contact
