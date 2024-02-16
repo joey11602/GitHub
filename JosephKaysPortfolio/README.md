@@ -24,6 +24,7 @@
 
 ### Project 5: [C#and.NET](C#and.NET)
 
+
 #### The most intensive course at The Tech Academy, delving into object-oriented programming, C#, and the complexity of .NET and .NET Core. A pivotal course that expanded my understanding significantly.
 
 ### Project 6: [C#and.NET-Live-Project](C#and.NET-Live-Project)
