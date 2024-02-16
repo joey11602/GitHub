@@ -22,7 +22,7 @@
 
 #### A live project using Azure, this experience involved daily stand-ups and code retrospectives, pushing me out of my comfort zone and enhancing my collaboration skills. Check the README for details.
 
-### Project 5: [C#and.NET](C#and.NET)
+### Project 5: [cSharpAnd.NET](cSharpAnd.NET)
 
 
 #### The most intensive course at The Tech Academy, delving into object-oriented programming, C#, and the complexity of .NET and .NET Core. A pivotal course that expanded my understanding significantly.
