@@ -27,7 +27,7 @@
 
 #### The most intensive course at The Tech Academy, delving into object-oriented programming, C#, and the complexity of .NET and .NET Core. A pivotal course that expanded my understanding significantly.
 
-### Project 6: [C#and.NET-Live-Project](C#and.NET-Live-Project)
+### Project 6: [cSharpAnd.NET-Live-Project](cSharpAnd.NET-Live-Project)
 
 #### Another live project using Azure, similar to the Python live project, but with added proficiency. Excelling in this project solidified my choice of using C# as my main programming language.
 
