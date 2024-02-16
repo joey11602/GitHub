@@ -1,0 +1,20 @@
+{% extends 'MyRecipes_base.html' %}
+
+{% load crispy_forms_tags %}
+
+{% block header %}
+<h2 class="text-center my-large-font">Create a Recipe</h2>
+{% endblock %}
+
+{% block content %}
+<div class="wrapper">
+    <form method="POST">
+        {% csrf_token %}
+        {{form|crispy}}
+        <div class="mx-auto" style="width: 150px;">
+            <button class="button" type="submit">Submit</button>
+            <p></p>
+        </div>
+    </form>
+</div>
+{% endblock %}

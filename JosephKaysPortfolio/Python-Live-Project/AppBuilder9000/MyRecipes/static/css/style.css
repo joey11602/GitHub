@@ -1,0 +1,118 @@
+/* Centers the Titles vertically */
+.hTitle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/* blue font */
+h1, h2, h3, p, li, img {
+    color: blue;
+}
+/* extra large font that resists wrapping */
+.my-large-font {
+    color: blue;
+    font-size: 4.5em;
+    white-space: nowrap;
+    width: 100%;
+}
+/* blue font for column form labels */
+.col-form-label {
+    color: blue;
+}
+/* blue font for difficulty drop down menu */
+#id_difficulty {
+    color: blue;
+}
+/* blue font for text input box */
+.textinput.form-control {
+    color: blue;
+}
+/* blue font for text input area box */
+.textarea.form-control {
+    color: blue;
+}
+/* medium sized blue font for recipe links */
+.recipes {
+    color: blue;
+    font-size: 24px;
+}
+/* hover animation for recipe links */
+.recipes:hover {
+    text-decoration: none;
+    color: rgba(0, 0, 255, 0.2);
+}
+/* removes dashes and tab spacing */
+ul {
+    list-style: none;
+    margin-left: -4em;
+}
+/* centers text horizontally */
+header {
+    text-align: center;
+}
+/* styles the entire body with a fixed background image */
+body {
+    background-image: url('../images/app-images/cover_photo.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+    background-attachment: fixed;
+}
+/* styling and positioning for footer */
+footer {
+    position: absolute;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    margin-top: 2%;
+}
+/* styling for navbar */
+.navbar {
+    width: 100%;
+    padding: 0;
+    margin-bottom: 2%;
+}
+/* removes tab spacing on navbar */
+.navigation {
+    margin-right: -5%;
+}
+/* removes underline on links */
+a:hover {
+    text-decoration: none;
+}
+/* styling for wrapper(smaller box container) centered with white background and scrollable */
+.wrapper {
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-size: 100% 100%;
+    background: white;
+    margin: auto;
+    padding: 0;
+    max-height: 60vh;
+    width: 70vw;
+    z-index: 0;
+    border: 15px solid blue;
+}
+/* styling for button */
+.button {
+    background: blue;
+    border: none;
+    color: white;
+    padding: 5px 40px;
+    margin: 0px 2px 0px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+/* hover animation for button */
+.button:hover {
+     text-decoration: none;
+     color: rgba(255, 255, 255, 0.2);
+}

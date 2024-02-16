@@ -1,0 +1,32 @@
+{% extends "MyRecipes_base.html" %}
+
+{% block content %}
+<div class="wrapper">
+    <h1>{{ recipe.title }}</h1>
+    <img src="{{ recipe.image_link }}" alt="{{ recipe.title }}">
+    <h3>Ingredients</h3>
+    <p>{{ recipe.ingredients }}</p><br>
+    <h3>Instructions</h3>
+    <p>{{ recipe.instructions }}</p><br>
+    <h3>Additional Details</h3>
+    <ul>
+        <li class="px-4">Preparation Time: {{ recipe.preparation_time }}</li>
+        <li class="px-4">Published on: {{ recipe.publication_date }}</li>
+        <li class="px-4">Difficulty: {{ recipe.difficulty }}</li>
+    </ul>
+    <nav class="navbar navbar-expand justify-content-center">
+        <ul class="navbar-nav">
+            <li>
+                <a href="{% url 'MyRecipes_update' recipe.id %}">
+                    <button class="button" type="submit">Update</button>
+                </a>
+            </li>
+            <li>
+                <a href="{% url 'MyRecipes_delete' recipe.id %}">
+                    <button class="button" type="submit">Delete</button>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>
+{% endblock %}

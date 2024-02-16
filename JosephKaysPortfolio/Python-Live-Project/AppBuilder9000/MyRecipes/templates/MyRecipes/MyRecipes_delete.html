@@ -1,0 +1,22 @@
+{% extends 'MyRecipes_base.html' %}
+
+{% block content %}
+<div class="wrapper">
+    <form method="POST" action="{% url 'MyRecipes_delete' recipe.id %}">
+        {% csrf_token %}
+        <h1 class="text-center">Are you sure you want to delete {{ recipe.title }} ?</h1><br>
+        <div class="container">
+            <nav class="navbar navbar-expand justify-content-center">
+                <ul class="navbar-nav">
+                    <li>
+                        <input type="submit" class="button" value="Yes">
+                    </li>
+                    <li>
+                        <a href="{% url 'MyRecipes_home' %}" class="button">Home</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </form>
+</div>
+{% endblock %}

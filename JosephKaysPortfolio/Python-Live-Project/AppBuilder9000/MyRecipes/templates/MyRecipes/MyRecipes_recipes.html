@@ -1,0 +1,21 @@
+{% extends 'MyRecipes_base.html' %}
+
+{% block title %}My Recipes{% endblock %}
+
+{% block content %}
+<h1 class="text-center my-large-font">Recipes</h1>
+<div class="wrapper">
+    {% if all_titles %}
+    <div class="text-center ">
+        {% for title in all_titles %}
+        <h3 style="display: inline-block; margin-right: 10px;">
+            <a class="recipes" href="{% url 'MyRecipes_details' title.id %}">{{ title.title }}</a>
+            {% if not forloop.last %}&nbsp;&nbsp;&nbsp;{% endif %}
+        </h3>
+        {% endfor %}
+    </div>
+    {% else %}
+    <h3>You don't have any recipes saved!</h3>
+    {% endif %}
+</div>
+{% endblock %}

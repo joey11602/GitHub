@@ -1,0 +1,30 @@
+{% extends "MyRecipes_base.html" %}
+
+{% load crispy_forms_tags %}
+
+{% block header %}
+<div class="update">
+    <h2 class="text-center my-large-font">Update a Recipe</h2>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="wrapper">
+    <form method="POST">
+        {% csrf_token %}
+        {{form|crispy}}
+        <nav class="navbar navbar-expand justify-content-center">
+            <ul class="navbar-nav">
+                <li>
+                    <button type="submit" class="button">Save</button>
+                </li>
+                <li>
+                    <a href="{% url 'MyRecipes_details' recipe.id %}">
+                        <button class="button" type="submit">Back</button>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </form>
+</div>
+{% endblock %}
