@@ -1,0 +1,7 @@
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-CallingMethods\ConsoleApp-CallingMethods\bin\Debug\ConsoleApp-CallingMethods.exe.config
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-CallingMethods\ConsoleApp-CallingMethods\bin\Debug\ConsoleApp-CallingMethods.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-CallingMethods\ConsoleApp-CallingMethods\bin\Debug\ConsoleApp-CallingMethods.pdb
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-CallingMethods\ConsoleApp-CallingMethods\obj\Debug\ConsoleApp-CallingMethods.csproj.AssemblyReference.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-CallingMethods\ConsoleApp-CallingMethods\obj\Debug\ConsoleApp-CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-CallingMethods\ConsoleApp-CallingMethods\obj\Debug\ConsoleApp-CallingMethods.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-CallingMethods\ConsoleApp-CallingMethods\obj\Debug\ConsoleApp-CallingMethods.pdb

@@ -1,0 +1,13 @@
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.pdb
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intStringArrayIntListAddForEach\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intStringArrayIntListAddForEach\Iteration\bin\Debug\Iteration.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intStringArrayIntListAddForEach\Iteration\bin\Debug\Iteration.pdb
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intStringArrayIntListAddForEach\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intStringArrayIntListAddForEach\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intStringArrayIntListAddForEach\Iteration\obj\Debug\Iteration.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intStringArrayIntListAddForEach\Iteration\obj\Debug\Iteration.pdb

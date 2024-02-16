@@ -1,0 +1,7 @@
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\bin\Debug\MathAndComparisonOperatorAssignment.exe.config
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\bin\Debug\MathAndComparisonOperatorAssignment.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\bin\Debug\MathAndComparisonOperatorAssignment.pdb
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.csproj.AssemblyReference.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.pdb

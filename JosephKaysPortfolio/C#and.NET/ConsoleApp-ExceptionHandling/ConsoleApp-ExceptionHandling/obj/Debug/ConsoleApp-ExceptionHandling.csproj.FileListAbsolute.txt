@@ -1,0 +1,7 @@
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-ExceptionHandling\ConsoleApp-ExceptionHandling\bin\Debug\ConsoleApp-ExceptionHandling.exe.config
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-ExceptionHandling\ConsoleApp-ExceptionHandling\bin\Debug\ConsoleApp-ExceptionHandling.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-ExceptionHandling\ConsoleApp-ExceptionHandling\bin\Debug\ConsoleApp-ExceptionHandling.pdb
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-ExceptionHandling\ConsoleApp-ExceptionHandling\obj\Debug\ConsoleApp-ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-ExceptionHandling\ConsoleApp-ExceptionHandling\obj\Debug\ConsoleApp-ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-ExceptionHandling\ConsoleApp-ExceptionHandling\obj\Debug\ConsoleApp-ExceptionHandling.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-ExceptionHandling\ConsoleApp-ExceptionHandling\obj\Debug\ConsoleApp-ExceptionHandling.pdb

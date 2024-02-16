@@ -1,0 +1,7 @@
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.exe.config
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.pdb
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.csproj.AssemblyReference.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.pdb

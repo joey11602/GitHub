@@ -1,0 +1,7 @@
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParametersAssighnment\ParametersAssighnment\bin\Debug\ParametersAssighnment.exe.config
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParametersAssighnment\ParametersAssighnment\bin\Debug\ParametersAssighnment.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParametersAssighnment\ParametersAssighnment\bin\Debug\ParametersAssighnment.pdb
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParametersAssighnment\ParametersAssighnment\obj\Debug\ParametersAssighnment.csproj.AssemblyReference.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParametersAssighnment\ParametersAssighnment\obj\Debug\ParametersAssighnment.csproj.CoreCompileInputs.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParametersAssighnment\ParametersAssighnment\obj\Debug\ParametersAssighnment.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ParametersAssighnment\ParametersAssighnment\obj\Debug\ParametersAssighnment.pdb

@@ -1,0 +1,14 @@
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-stringsIntergers\ConsoleApp-stringsIntergers\bin\Debug\ConsoleApp-stringsIntergers.exe.config
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-stringsIntergers\ConsoleApp-stringsIntergers\bin\Debug\ConsoleApp-stringsIntergers.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-stringsIntergers\ConsoleApp-stringsIntergers\bin\Debug\ConsoleApp-stringsIntergers.pdb
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-stringsIntergers\ConsoleApp-stringsIntergers\obj\Debug\ConsoleApp-stringsIntergers.csproj.AssemblyReference.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-stringsIntergers\ConsoleApp-stringsIntergers\obj\Debug\ConsoleApp-stringsIntergers.csproj.CoreCompileInputs.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-stringsIntergers\ConsoleApp-stringsIntergers\obj\Debug\ConsoleApp-stringsIntergers.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-stringsIntergers\ConsoleApp-stringsIntergers\obj\Debug\ConsoleApp-stringsIntergers.pdb
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intListExceptionHandling\ConsoleApp-stringsIntergers\bin\Debug\ConsoleApp-stringsIntergers.exe.config
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intListExceptionHandling\ConsoleApp-stringsIntergers\bin\Debug\ConsoleApp-stringsIntergers.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intListExceptionHandling\ConsoleApp-stringsIntergers\bin\Debug\ConsoleApp-stringsIntergers.pdb
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intListExceptionHandling\ConsoleApp-stringsIntergers\obj\Debug\ConsoleApp-stringsIntergers.csproj.AssemblyReference.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intListExceptionHandling\ConsoleApp-stringsIntergers\obj\Debug\ConsoleApp-stringsIntergers.csproj.CoreCompileInputs.cache
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intListExceptionHandling\ConsoleApp-stringsIntergers\obj\Debug\ConsoleApp-stringsIntergers.exe
+C:\Users\joey3\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-intListExceptionHandling\ConsoleApp-stringsIntergers\obj\Debug\ConsoleApp-stringsIntergers.pdb
