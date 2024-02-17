@@ -1,9 +1,9 @@
 # C# and .NET Live Project Summary
-## Introduction:
+## Introduction
 #### Presenting my C# and .NET Live Project undertaken at The Tech Academy, this two-week sprint followed an Azure DevOps style project structure. The primary goal was to complete a minimum of four boards, and I successfully completed four within the specified timeframe.
-## Project Overview:
+## Project Overview
 #### This project, developed using ASP .NET MVC and Entity Framework, serves as an interactive website for managing content and productions for a theater/acting company. It functions as a user-friendly Content Management Service (CMS) for non-tech-savvy users and facilitates easy management of website content. Additionally, it provides a robust system for subscriber logins and maintains a comprehensive wiki of past performances and performers.
-## Key Stories:
+## Key Stories
 ### Story One: Enhancing Sign In Page with JavaScript
 - Tasked with using JavaScript on the Sign In page to count developers.
 - Added custom IDs to HTML elements and utilized JavaScript to count and display developer numbers on the badge.
