@@ -10,7 +10,7 @@
 - [Sign In Page](images/SignIn.jpg)
 - [Code Snippets](images/SignInCountCode.jpg)
 ### Story Two: Improving Blog Author Create and Edit Pages
-- Created the [Blog Authors Model](TheatresCMS3/Areas/Blog/Models/BlogAuthor.cs) and connected it to my database using the Entity Framework.
+- Created the [Blog Authors Model](TheatreCMS3/Areas/Blog/Models/BlogAuthor.cs) and connected it to my database using the Entity Framework.
 - Modified [Create](TheatreCMS3/Areas/Blog/Views/BlogAuthors/Create.cshtml) and [Edit](TheatreCMS3/Areas/Blog/Views/BlogAuthors/Edit.cshtml) pages for Blog Author, incorporating color variables from Site.css.
 - Centered and aligned Name and Bio fields, applied CSS from [Blog.css](TheatreCMS3/Content/Areas/Blog.css) for styling.
 - Included date and time pickers, and created buttons for Create and Back to List links.
