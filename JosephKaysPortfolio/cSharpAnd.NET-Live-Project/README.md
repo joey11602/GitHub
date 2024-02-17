@@ -28,4 +28,8 @@
 - On the [Index Page](TheatreCMS3/Areas/Blog/Views/BlogAuthors/Index.cshtml) I rendered a partial views for each BlogAuthor using a for loop, mimicking Details/Delete page layout.
 -	Moved Edit and Delete buttons inside the BlogAuthor container.
 -	[Index view using the partial view](images/IndexPartialViewPage.jpg)
+### Story Five: Modal Confirmation for Author Deletion
+- Created a [Modal](TheatreCMS3/Scripts/Areas/Blog.js) using JavaScript for confirmation on delete button click.
+-	Developed JavaScript for database access, removal, and save confirmation.
+-	Pending completion for removing author details from the page without reloading.
 
