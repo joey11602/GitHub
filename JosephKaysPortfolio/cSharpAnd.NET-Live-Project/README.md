@@ -15,7 +15,7 @@
 - Included date and time pickers, and created buttons for Create and Back to List links.
 - [Create Page](images/CreatePage.jpg)
 ### Story Three: Designing Details and Delete Page
-- Styled Details and [Delete](TheatreCMS3/Areas/Blog/Views/BlogAuthors/Delete.cshtml) pages resembling the storyboard card example.
+- Styled [Details](TheatreCMS3/Areas/Blog/Views/BlogAuthors/Details.cshtml) and [Delete](TheatreCMS3/Areas/Blog/Views/BlogAuthors/Delete.cshtml) pages resembling the storyboard card example.
 - Added tabs for Author Details and Latest Blog Posts, with placeholders for unfinished sections.
 - Integrated social media links using Awesome icons and implemented temporary pages.
 - Included navigation buttons at the bottom - Back to List, Edit, and Delete.
