@@ -21,7 +21,7 @@
 - Included navigation buttons at the bottom - Back to List, Edit, and Delete.
 - [Details and Delete Page](images/DetailsDeletePage.jpg)
 - [Under Construction Page](images/UnderConstructionPage.jpg)
-- [Delete Confirmation Page](images/DeleteConfimPage.jpg)
+- [Delete Confirmation Page](images/DeleteConfirmPage.jpg)
 ### Story Four: Implementing Partial View for Blog Author Index Page
 - Replaced the table on the index page with a partial view [_BlogAuthor.cshtml](Areas/Blog/Views/Shared/_BlogAuthor.cshtml).
 •	Rendered partial views for each BlogAuthor using a for loop, mimicking Details/Delete page layout.
