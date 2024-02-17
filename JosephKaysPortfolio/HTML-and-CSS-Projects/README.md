@@ -8,7 +8,7 @@ There are a lot of files on here that pertain to my class work. They are simple 
    - [animations.css](Basic_HTML_and__CSS/css/animations.css)
 2. Exercise Tuscaloosa Project - This web page is an example of a 5K run web site that you can sign up for and watch a video on training.
    - [one_page_website.html](Basic_HTML_and__CSS/One-Page-Website/one_page_website.html)
-   - [one_page_website_2.css](Basic_HTML_and__CSS/css/one_page_website_2.css)
+   - [one_page_website_2.css](Basic_HTML_and__CSS/One-Page-Website/css/one_page_website.css)
 3. Crimson Tide 2023 Football Schedule Project - This was an assignment to put various elements throughout the web page. I used the Crimson Tides Football schedule as a theme. It has text overlaid on images and video. It has columns made from unordered lists, and text animation on the navbar and overlaid texts.
    - [1_through_10_challenge.html](Basic_HTML_and__CSS/1_through_10_challenge.html)
    - [1_through_10_challenge.css](Basic_HTML_and__CSS/css/1_through_10_challenge.css)
