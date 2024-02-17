@@ -27,4 +27,5 @@
 - Replaced the table on the index page with a partial view [_BlogAuthor.cshtml](TheatreCMS3/Areas/Blog/Views/Shared/_BlogAuthor.cshtml).                           
 - On the [Index Page](TheatreCMS3/Areas/Blog/Views/BlogAuthors/Index.cshtml) I rendered a partial views for each BlogAuthor using a for loop, mimicking Details/Delete page layout.
 -	Moved Edit and Delete buttons inside the BlogAuthor container.
+-	[Index view using the partial view](images/IndexPartialViewPage.jpg)
 
