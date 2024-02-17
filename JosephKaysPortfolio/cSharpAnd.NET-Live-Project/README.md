@@ -7,7 +7,7 @@
 ### Story One: Enhancing Sign In Page with JavaScript
 - Tasked with using JavaScript on the Sign In page to count developers.
 - Added custom IDs to HTML elements and utilized JavaScript to count and display developer numbers on the badge.
-- [Sighn In Page](images/SighnIn.jpg)
+- [Sign In Page](images/SignIn.jpg)
 - [Code Snippets](images/SignInCountCode.jpg)
 ### Story Two: Improving Blog Author Create and Edit Pages
 - Modified Create and Edit pages for Blog Author, incorporating color variables from Site.css.
