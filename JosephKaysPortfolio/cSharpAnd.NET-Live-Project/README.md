@@ -32,6 +32,7 @@
 - Created a [Modal](TheatreCMS3/Scripts/Areas/Blog.js) using JavaScript for confirmation on delete button click.
 -	Developed JavaScript for database access, removal, and save confirmation.
 -	Pending completion for removing author details from the page without reloading. I was still debugging my code when the project ended.
+-	[Modal Page](images/ModalFunc.jpg)
 ## My Take Away
 ### This project marked significant growth in my development skills, evident in my increased confidence and knowledge. Working with C# and the .NET framework was a more enjoyable experience compared to previous projects with Python. The project reinforced my preference for C# as my programming language of choice, largely due to the ease and efficiency of the .NET framework.
 ## Thank you for exploring my C# and .NET Live Project.
