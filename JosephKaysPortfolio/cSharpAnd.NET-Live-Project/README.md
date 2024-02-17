@@ -23,7 +23,7 @@
 - [Under Construction Page](images/UnderConstructionPage.jpg)
 - [Delete Confirmation Page](images/DeleteConfirmPage.jpg)
 ### Story Four: Implementing Partial View for Blog Author Index Page
-- Replaced the table on the index page with a partial view [_BlogAuthor.cshtml](TheatreCMS3/Areas/Blog/Views/Shared/_BlogAuthor.cshtml).
-•	Rendered partial views for each BlogAuthor using a for loop, mimicking Details/Delete page layout.
-•	Moved Edit and Delete buttons inside the BlogAuthor container.
+- Replaced the table on the index page with a partial view [_BlogAuthor.cshtml](TheatreCMS3/Areas/Blog/Views/Shared/_BlogAuthor.cshtml).                           
+- On the [Index Page](TheatreCMS3/Areas/Blog/Views/BlogAuthors/Index.cshtml) I rendered a partial views for each BlogAuthor using a for loop, mimicking Details/Delete page layout.
+-	Moved Edit and Delete buttons inside the BlogAuthor container.
 
