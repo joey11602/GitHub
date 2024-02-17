@@ -17,7 +17,7 @@
 ### Story Three: Designing Details and Delete Page
 - Styled [Details](TheatreCMS3/Areas/Blog/Views/BlogAuthors/Details.cshtml) and [Delete](TheatreCMS3/Areas/Blog/Views/BlogAuthors/Delete.cshtml) pages resembling the storyboard card example.
 - Added tabs for Author Details and Latest Blog Posts, with placeholders for unfinished sections.
-- Integrated social media links using Awesome icons and implemented temporary pages.
+- Integrated social media links using Awesome icons and implemented an [Under Contruction page](TheatreCMS3/Areas/Blog/Views/BlogAuthors/UnderConstruction.cshtml).
 - Included navigation buttons at the bottom - Back to List, Edit, and Delete.
 - [Details and Delete Page](images/DetailsDeletePage.jpg)
 - [Under Construction Page](images/UnderConstructionPage.jpg)
