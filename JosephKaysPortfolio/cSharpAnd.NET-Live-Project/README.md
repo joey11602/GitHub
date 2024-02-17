@@ -1,1 +1,29 @@
-# Coming Soon!
+# C# and .NET Live Project Summary
+## Introduction:
+#### Presenting my C# and .NET Live Project undertaken at The Tech Academy, this two-week sprint followed an Azure DevOps style project structure. The primary goal was to complete a minimum of four boards, and I successfully completed four within the specified timeframe.
+## Project Overview:
+#### This project, developed using ASP .NET MVC and Entity Framework, serves as an interactive website for managing content and productions for a theater/acting company. It functions as a user-friendly Content Management Service (CMS) for non-tech-savvy users and facilitates easy management of website content. Additionally, it provides a robust system for subscriber logins and maintains a comprehensive wiki of past performances and performers.
+## Key Stories:
+### Story One: Enhancing Sign In Page with JavaScript
+- Tasked with using JavaScript on the Sign In page to count developers.
+- Added custom IDs to HTML elements and utilized JavaScript to count and display developer numbers on the badge.
+- [Sighn In Page](images/SighnIn.jpg)
+- [Code Snippets](images/SignInCountCode.jpg)
+### Story Two: Improving Blog Author Create and Edit Pages
+- Modified Create and Edit pages for Blog Author, incorporating color variables from Site.css.
+- Centered and aligned Name and Bio fields, applied CSS from Blog.css for styling.
+- Included date and time pickers, and created buttons for Create and Back to List links.
+- [Create Page](images/CreatePage.jpg)
+### Story Three: Designing Details and Delete Page
+- Styled Details and Delete pages resembling the storyboard card example.
+- Added tabs for Author Details and Latest Blog Posts, with placeholders for unfinished sections.
+- Integrated social media links using Awesome icons and implemented temporary pages.
+- Included navigation buttons at the bottom - Back to List, Edit, and Delete.
+- [Details and Delete Page](images/DetailsDeletePage.jpg)
+- [Under Construction Page](images/UnderConstructionPage.jpg)
+- [Delete Confirmation Page](images/DeleteConfimPage.jpg)
+### Story Four: Implementing Partial View for Blog Author Index Page
+- Replaced the table on the index page with a partial view [_BlogAuthor.cshtml](Areas/Blog/Views/Shared/_BlogAuthor.cshtml).
+•	Rendered partial views for each BlogAuthor using a for loop, mimicking Details/Delete page layout.
+•	Moved Edit and Delete buttons inside the BlogAuthor container.
+
