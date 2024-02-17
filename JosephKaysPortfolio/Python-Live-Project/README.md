@@ -11,7 +11,7 @@
 - [Create Recipe Page](images/create.jpg)
 ### Story Three
 #### For the third story, I was to display all the information in my database to a web page. First, I created a new template called [MyRecipes_recipes.html](AppBuilder9000/MyRecipes/templates/MyRecipes/MyRecipes_recipes.html). I would use this page to display a list of recipes that are hyperlinks. To do this I updated my views.py by creating a function that would get all the titles of the objects and their Primary IDs. It would pass this to a dictionary named ‘content’ and render it to the template MyRecipes_recipes.html. I also added that URL to my urls.py and added to my CSS file.
-![image](https://github.com/joey11602/Python-Live-Project/assets/137662879/c4e0314f-f63e-4c77-b480-627492b481f6)
+-[List of Recipes Page](images/recipes.jpg)
 ### Story Four
 #### Story four is where I am to create a web page that will display any recipe that is selected. I updated my views.py by creating a function called  MyRecipes_details. This function takes the object.id or pk(Primary key) and queries the database to get all the data associated with that instance of that object. It then passes this data into the variable ‘content’ and renders the [MyRecipes_details.html](AppBuilder9000/MyRecipes/templates/MyRecipes/MyRecipes_details.html) where it is displayed. I also added that URL to my urls.py and added to my CSS file.
 ![image](https://github.com/joey11602/Python-Live-Project/assets/137662879/777534d9-724b-485f-b24e-2a6bd6e19dfa)
