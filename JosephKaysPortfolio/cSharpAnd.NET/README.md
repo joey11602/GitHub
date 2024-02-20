@@ -68,6 +68,6 @@ Take a look at my portfolio web page: [josephkay.org](http://josephkay.org/)
 ## Contact
 
 - Email: joey35475@outlook.com
-- LinkedIn: [joey Kay](https://www.linkedin.com/in/josephkaycodewhisperer)
+- LinkedIn: [Joey Kay](https://www.linkedin.com/in/josephkaycodewhisperer)
 
 Thank you for visiting my portfolio. Your feedback and suggestions are highly appreciated!
