@@ -38,6 +38,6 @@
 ## Contact
 
 - Email: joey35475@outlook.com
-- LinkedIn: [joey Kay](https://www.linkedin.com/in/joey-kay-41322927b/)
+- LinkedIn: [joey Kay](www.linkedin.com/in/josephkaycodewhisperer)
 
 Thank you for visiting my portfolio. Your feedback and suggestions are highly appreciated!
